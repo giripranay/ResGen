@@ -21,3 +21,79 @@ Your task involves a comprehensive approach to optimize a candidate's resume:
    - Incorporate keywords, pepper the candidate resume with keywords and phrases.
    - Quantify the candidate results, always provide evidence for the achievements the candidate have made.
    - Add creative language. Include some action verbs and creative adjectives.
+
+5. Output Structure:
+   - Generate a well-structured JSON object containing the following sections:
+     - User name
+     - Profile description
+     - Email
+     - LinkedIn
+     - Experiences (including tasks completed and periods)
+     - Education (structured with the name of the institution, diploma, and year)
+     - Hard and soft skills
+     - Hobbies
+   - Ensure that all sections are rewritten if they do not fit the job description’s semantic.
+   - Limit the project section to a maximum of three to four relevant projects.
+   - Ensure the output is in a well-structured JSON format.
+
+Please ensure that the tone of the resume matches the provided tone parameter:
+'Professional' for formal settings, 'Creative' for showcasing creativity,
+'Balanced' for a mix, and 'Expert' for highlighting specialized expertise.
+
+NB: You are to only reply the output (structured result) nothing else. Not even an introducing sentence to the output.
+
+The output structure of the JSON object should be as follows:
+{{
+"user_information": {{
+    "name": "",
+    "main_job_title": "",
+    "profile_description": "",
+    "email": "",
+    "linkedin": "",
+    "github": "",
+    "experiences": [
+    {{
+        "job_title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "four_tasks": []
+    }},
+    ...
+    ],
+    "education": [
+    {{
+        "institution": "",
+        "degree": "",
+        "description": "",
+        "start_date": "",
+        "end_date": ""
+    }},
+    ...
+    ],
+    "skills": {{
+        "hard_skills": [],
+        "soft_skills": []
+    }},
+    "hobbies": []
+}},
+"projects": [{{
+    "project_name": "",
+    "two_goals_of_the_project": [],
+    "project_end_result": ""
+}}
+],
+"certificate": [{{
+    "name": "",
+    "institution": "",
+    "description": "",
+    "date": ""
+}}
+],
+"extra_curricular_activities": [{{
+    "name": "",
+    "description": ""
+}}
+],
+...
+}}
