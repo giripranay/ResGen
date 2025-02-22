@@ -1,0 +1,61 @@
+GIRIPRANAY KONA
+New York city 
++1-469-583-9601 giripranay.kona@gmail.com linkedin.com/in/giripranaykona/
+OBJECTIVE
+Experienced Software Engineer with 5 years of experience specializing in full-stack development and cloud computing.
+Successfully developed a 'Know Your Food' mobile app and automated a system for downloading SDS PDFs, significantly
+improving efficiency. Adept at building scalable applications and deploying solutions in cloud environments. Seeking to
+leverage expertise in software engineering to contribute to innovative projects and dynamic teams.
+EDUCATION
+University of Texas, Dallas Aug 2022 - May 2024
+Master of Computer Science, Data Science
+Indian Institute of Information Technology, Sricity Aug 2015 - May 2019
+Bachelor of Science, Electronics and Communication
+SKILLS
+• Programming Languages: Java, Python, JavaScript, TypeScript, C++, Dart, SQL, Bash
+• Frontend: HTML, CSS, React, Angular, Bootstrap, jQuery, Flutter, Figma
+• Backend: Nodejs, Express.js, Spring Boot, Django, Flask, PHP
+• Cloud and DevOps: AWS, Azure, Google Cloud, Docker, Kubernetes, Nginx, Firebase, OpenShift, CI/CD with Jenkins, terraform,
+lambda, distributed system, cloud computing
+• Databases: MySQL, PostgreSQL, MongoDB, Redis, Cassandra, DBSCAN, DynamoDB, Oracle
+• APIs and Microservices: RESTful APIs, APHqDB, Microservices Architecture, OAuth2, JWT
+• Data Processing: Apache Kafka, Apache Spark, Pandas, NumPy, Elasticsearch, Zookeeper
+• Version Control: Git, GitHub, GitLab, Bitbucket, Perforce, SVN, CI/CD integration, code reviews
+• Core Concepts: Computer Science, Software Development, Programming, Algorithm Design, Debugging, Back-End Web Development, Data Structures, Object-Oriented Programming (OOP), Software Testing, UNIX, LINUX
+EXPERIENCE
+Erik Johnson School of Engineering and Computer Science May 2023 - May 2024
+Software Engineer Dallas, TX
+• Developed and automated a system for downloading SDS PDFs using Node.js, reducing manual effort by 50% and improving overall
+efficiency.
+• Built and deployed RESTful APIs using Node.js and Express.js, ensuring smooth data flow and integration with frontend systems.
+• Implemented asynchronous programming paradigms using Promises, async/await, and event-driven architectures, enhancing application responsiveness and performance
+• Extracted data from dynamic and static web pages using Puppeteer, Selenium, BeautifulSoup, and Scrapy, efficiently handling
+challenges like CAPTCHAs, pagination, and JavaScript-rendered content
+The Live Green Company Oct 2020 - Aug 2022
+Sr. Software Developer Bengaluru, India
+• Spearheaded the development of the 'Know Your Food' mobile app, managing everything from wireframe design to infrastructure setup,
+which enhanced user engagement. Implemented Firebase for real-time data storage, set up a Django server on Google Cloud for API
+management, and configured an Nginx proxy server to efficiently handle incoming requests
+• Created dynamic and user-friendly web applications with React, which improved user satisfaction and engagement by enhancing UI/UX
+• Developed an API that accepts images as input, integrates with the Google Vision API to extract text, and processes food label images
+to isolate and retrieve the ingredients section, streamlining data extraction for improved efficiency
+• Built cross-platform mobile applications using Flutter and Dart, enhancing app performance for Android and iOS platforms. Managed
+state with Provider and Bloc, integrated RESTful APIs, and implemented Firebase for real-time data synchronization
+• Innovated the 'Food Analyzer' tool, resulting in a 75% increase in research productivity among food researchers
+• Designed and deployed scalable microservices using Docker and Kubernetes, managing containerized applications on AWS and GCP
+to improve scalability, system reliability, and availability.
+Dvara Solutions May 2019 - Sep 2020
+Software Developer Bengapuru, India
+• Developed and maintained RESTful APIs and microservices with SpringBoot, ensuring scalable, efficient backend services.
+• Optimized complex SQL queries using joins, subqueries, CTEs, and window functions for efficient data retrieval and manipulation in
+MySQL and PostgreSQL, leading to faster query execution and improved database performance
+• Debugged and resolved frontend issues in AngularJS applications using browser developer tools, improving user experience by
+inspecting DOM, network requests, and JavaScript performance
+PROJECTS
+University of Texas, Dallas
+Visualization with Spark Streaming, Kafka, Elasticsearch, and Kibana
+• Developed a Python application that continuously fetched real-time data from sources like Reddit and ingested this information into
+Apache Kafka.
+• Utilized PySpark Structured Streaming to process the data, extract named entities, and maintain a running count.
+• Triggered periodic updates to another Kafka topic with the counts of the named entities.
+• Configured Logstash, Elasticsearch, and Kibana to visualize the top 10 most frequent named entities using bar plots.

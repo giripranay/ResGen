@@ -1,5 +1,4 @@
 import openai
-from resumePDF import create_pdf
 # from generatePDF import generate_pdf
 from score import get_resume_match_score
 from utils import create_prompt, extract_json_from_text 
@@ -88,4 +87,3 @@ def extract_keywords_ai(prompt: str, job_description) -> str:
 # resume = extract_json_from_text(response)
 
 
-# print(create_pdf(resume, "PDFs/weasy_resume.pdf", ['Experiences', 'Education', 'Skills', 'Projects'] , color_code="#000000"))

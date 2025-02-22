@@ -5,7 +5,6 @@ from typing import Dict, Any
 
 # Import your existing functions
 import openai
-from resumePDF import create_pdf
 from score import get_resume_match_score
 from utils import create_prompt, extract_json_from_text
 from generateResume import generate_resume
@@ -94,13 +93,7 @@ def main():
                 validated_filename = validate_filename(pdf_filename)
                 pdf_path = os.path.join("PDFs", validated_filename)
 
-                # Create PDF
-                # pdf_success = create_pdf(
-                #     resume_json,
-                #     pdf_path,
-                #     ['Experiences', 'Education', 'Skills', 'Projects'],
-                #     color_code="#000000"
-                # )
+                
                 pdf_success = generate_ats_friendly_pdf(resume_json, pdf_path)
 
                 if pdf_success:
