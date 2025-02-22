@@ -69,7 +69,7 @@ def main():
         try:
             with st.spinner("Analyzing job description and generating resume..."):
                 # Create prompts
-                system_prompt = create_prompt("generate_resume_prompt.txt")
+                system_prompt = create_prompt("prompts/generate_resume_prompt.txt")
 
                 # Get resume match score and analysis
                 result = get_resume_match_score(job_description, resume_content)
