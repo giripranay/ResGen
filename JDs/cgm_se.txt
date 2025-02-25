@@ -1,0 +1,30 @@
+Create the future of e-health together with us by becoming a Software Engineer
+
+At CompuGroup Medical we have the mission of building ground-breaking solutions for digital healthcare. Our vision is revolutionizing how healthcare professionals produce, access, and utilize information and thus enabling them to focus on the core value of their work: patient outcomes.
+
+Your Contribution:
+
+EHR Software Troubleshooting: Quickly and effectively troubleshoot issues related to the Electronic Health Records (EHR) software, ensuring minimal downtime and optimal performance for end users.
+Code Base Analysis: Use your knowledge of Delphi, C#, and MSSQL to look up, analyze, and debug the code base to understand the root causes of technical issues and implement fixes.
+Technical Support: Provide support to both internal teams and external clients, resolving software issues efficiently via email, phone, or chat.
+Problem Resolution: Collaborate with the development team to identify, replicate, and resolve bugs, errors, and performance issues.
+Knowledge Base Management: Document common issues and solutions in our knowledge base to help improve the speed of issue resolution and streamline support processes.
+Continuous Learning: Stay up to date with software updates and new features, learning the ins and outs of our EHR software and tools to enhance troubleshooting efficiency.
+Cross-functional Collaboration: Work closely with engineers, product managers, and other stakeholders to ensure a smooth user experience and facilitate software improvements.
+Your Qualification:
+
+Proficient in Delphi, C#, and MSSQL: Ability to navigate, read, and troubleshoot code in these languages to understand and resolve issues within the software.
+Strong Troubleshooting Skills: Demonstrated ability to identify and resolve technical issues in software systems, with a focus on EHR or healthcare-related applications.
+Development Experience: A minimum of 1-2 years of software development experience in Delphi, C#, or MSSQL, where you have actively contributed to coding, debugging, or enhancing software applications.
+Technical Support Experience: At least 2 years of experience in a technical support or software troubleshooting role.
+Attention to Detail: Ability to identify and analyze complex technical issues and propose solutions quickly and accurately.
+Preferred Proficiency in Python: Experience with Python is a plus and will be beneficial in automating tasks and scripting solutions to improve efficiency.
+Preferred Experience with EHR Software: Familiarity with Electronic Health Records (EHR) systems, healthcare IT standards, and related technologies.
+What you can expect from us:
+
+Purpose: Become part of an important missions. At the interface between healthcare and digitization we create the future of e-health.
+Communities: At CGM the people and diversity are in the center of our attention.
+Career Opportunities: We are offering a variety of internal career opportunities and numerous long-term perspectives.
+Security: We offer a secure workplace in a crisis-proof market.
+All-round benefits package: Medical, Dental and Vision as well as 401k with employer matching. Personal Time Off to promote work life balance.
+Work environment: Modern workplaces, flexible working hours, hybrid work options and much more
