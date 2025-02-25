@@ -1,10 +1,10 @@
 # ResGen: AI-Powered Resume Generation 🚀
 
-ResGen (Resume Generation) is a cutting-edge project designed to revolutionize the way you create and tailor your resumes. Leveraging the power of Large Language Models (LLMs), ResGen intelligently analyzes job descriptions and your existing resume to generate a dynamic, ATS-friendly resume that highlights your most relevant skills and experience.  This project is inspired by and gives credit to the work done on [MyResumo](https://github.com/AnalyticAce/MyResumo) by AnalyticAce.
+ResGen (Resume Generation) is a project that helps you create and customize your resumes. It uses AI to look at job descriptions and your current resume, then makes a new resume that focuses on the most important skills and experience.  This new resume is designed to be easily read by computer systems used by companies to manage job applications. This project was inspired by and gives credit to MyResumo by AnalyticAce.
 
 ## Project Description
 
-ResGen streamlines the resume creation process by automating the tedious task of tailoring your resume to each job application.  It identifies key skills, dynamically generates work experience and projects relevant to the target role, and optimizes your existing content for maximum impact.  Say goodbye to generic resumes and hello to personalized, targeted applications!
+The main idea behind project is to generate tailored resume based on job description and your current resume. We leverage the power LLMs to accomplish this task.
 
 ## Key Features
 
